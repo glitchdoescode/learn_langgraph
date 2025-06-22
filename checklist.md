@@ -3,8 +3,8 @@
 ## Core Fundamentals & Setup
 - [x] Install LangGraph and understand basic requirements (docs: https://langchain-ai.github.io/langgraph/agents/agents/)
 - [x] Build your first basic chatbot with LangGraph (docs: https://langchain-ai.github.io/langgraph/tutorials/get-started/1-build-basic-chatbot/)
-- [ ] Understand why choose LangGraph over other frameworks (docs: https://langchain-ai.github.io/langgraph/concepts/why-langgraph/)
-- [ ] Add web search tools to extend agent capabilities (docs: https://langchain-ai.github.io/langgraph/tutorials/get-started/2-add-tools/)
+- [x] Understand why choose LangGraph over other frameworks (docs: https://langchain-ai.github.io/langgraph/concepts/why-langgraph/)
+- [x] Add web search tools to extend agent capabilities (docs: https://langchain-ai.github.io/langgraph/tutorials/get-started/2-add-tools/)
 - [ ] Implement memory and conversation history (docs: https://langchain-ai.github.io/langgraph/tutorials/get-started/3-add-memory/)
 
 ## Core Primitives & Low-Level API
