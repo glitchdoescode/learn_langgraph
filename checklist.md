@@ -15,7 +15,7 @@
 - [x] Create normal and conditional edges for control flow (docs: https://langchain-ai.github.io/langgraph/concepts/low_level/#edges)
 - [x] Use START and END nodes for graph entry/exit points (docs: https://langchain-ai.github.io/langgraph/concepts/low_level/#start-node)
 - [x] Implement Send API for dynamic map-reduce patterns (docs: https://langchain-ai.github.io/langgraph/concepts/low_level/#send)
-- [ ] Master Command objects for combining state updates and routing (docs: https://langchain-ai.github.io/langgraph/concepts/low_level/#command)
+- [x] Master Command objects for combining state updates and routing (docs: https://langchain-ai.github.io/langgraph/concepts/low_level/#command)
 - [ ] Configure recursion limits and runtime parameters (docs: https://langchain-ai.github.io/langgraph/concepts/low_level/#configuration)
 - [ ] Visualize and debug graph structures (docs: https://langchain-ai.github.io/langgraph/concepts/low_level/#visualization)
 - [ ] Use the Graph API for complex workflows (docs: https://langchain-ai.github.io/langgraph/how-tos/graph-api/)
